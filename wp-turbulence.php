@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WP-turbulence
-Plugin URI: https://yourwebsite.com/wp-turbulence
+Plugin URI: https://danmckeown.info/wp-turbulence
 Description: A plugin that causes the page to come apart very slowly by making each element shake at slightly different speeds.
-Version: 1.0
+Version: 1.1
 Author: Daniel J. McKeown
 Author URI: https://danieljmckeown.com
 License: GPL2
