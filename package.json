@@ -1,0 +1,11 @@
+{
+  "name": "wp-turbulence",
+  "version": "1.0.0",
+  "description": "a plugin that makes WordPress sites shake",
+  "main": "wp-turbulence.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel J. McKeown <dj@sf3am.com>",
+  "license": "GPL-2.0-only"
+}
